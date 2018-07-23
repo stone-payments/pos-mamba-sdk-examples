@@ -1,0 +1,18 @@
+
+<MambaClass Type="Manifest" Version="1.0">
+  <Member Name="id">99999</Member>
+  <Member Name="appName">HttpRequest</Member>
+  <Member Name="defaultName">HttpRequest</Member>
+  <Member Name="displayedName">HttpRequest</Member>
+  <Member Name="appVersion">1.0.0</Member>
+  <Member Name="appDescription">Mamba websdk template</Member>
+  <Member Name="iconPath">assets/logo.bmp</Member>
+  <Member Name="runOnUserSelection">index.html</Member>
+  <Member Name="appCreationDate">2017-07-17T13:32:00</Member>
+  <Member Name="appLastModificationDate">2018-07-18T18:17:26</Member>
+  <Member Name="listInMainMenu">true</Member>
+  <Member Name="appType">0</Member>
+  <Member Name="appTechnology">1</Member>
+  <Member Name="appPasswordProtectionLevel">0</Member>
+  <Member Name="appKey">8D9AD775-555F-4790-970C-E6D84993F45D</Member>
+</MambaClass>

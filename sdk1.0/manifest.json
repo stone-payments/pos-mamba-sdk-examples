@@ -1,0 +1,16 @@
+{
+    "id": 99999,
+    "appName": "HttpRequest",
+    "iconPath": "assets/logo.bmp",
+    "runOnUserSelection": "index.html",
+    "appCreationDate": "2017-07-17T13:32:00",
+    "listInMainMenu": "true",
+    "appType": "0",
+    "appTechnology": "1",
+    "appPasswordProtectionLevel": "0",
+    "appKey": "8D9AD775-555F-4790-970C-E6D84993F45D",
+    "endpoint": [],
+    "stonecode": [
+        "167988962"
+    ]
+}
