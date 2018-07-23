@@ -1,6 +1,6 @@
-# pos-mamba-websdk-template
+# HTTP
 
-> A template that uses the mamba-websdk library
+> Http request
 
 ## Project structure
 
