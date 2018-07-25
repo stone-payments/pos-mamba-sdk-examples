@@ -1,0 +1,16 @@
+{
+    "id": 99,
+    "appName": "Mamba Template",
+    "iconPath": "assets/logo.bmp",
+    "runOnUserSelection": "index.html",
+    "appCreationDate": "2017-07-17T13:32:00",
+    "listInMainMenu": "true",
+    "appType": "0",
+    "appTechnology": "1",
+    "appPasswordProtectionLevel": "0",
+    "appKey": "111-1111-1111-111-111-11",
+    "endpoint": [],
+    "stonecode": [
+        "167988962"
+    ]
+}
