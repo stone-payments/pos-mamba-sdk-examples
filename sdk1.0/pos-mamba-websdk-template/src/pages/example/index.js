@@ -1,10 +1,10 @@
 import './example.scss'
 import template from './example.html'
-import qrcode from '../../components/qr-component'
+import barcode from '../../components/barcode-component'
 
 export default {
   template,
   components: {
-    qrcode
+    barcode
   }
 }
